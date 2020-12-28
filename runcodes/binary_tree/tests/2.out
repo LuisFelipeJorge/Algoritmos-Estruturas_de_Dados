@@ -1,0 +1,8 @@
+no 0: pai = -1, altura = 4, grau = 2, filhos = (1,2), tipo = raiz
+no 1: pai = 0, altura = 3, grau = 2, filhos = (5,6), tipo = interno
+no 5: pai = 1, altura = 2, grau = 1, filhos = (7,-1), tipo = interno
+no 7: pai = 5, altura = 1, grau = 0, filhos = (-1,-1), tipo = folha
+no 6: pai = 1, altura = 1, grau = 0, filhos = (-1,-1), tipo = folha
+no 2: pai = 0, altura = 2, grau = 2, filhos = (3,4), tipo = interno
+no 3: pai = 2, altura = 1, grau = 0, filhos = (-1,-1), tipo = folha
+no 4: pai = 2, altura = 1, grau = 0, filhos = (-1,-1), tipo = folha
